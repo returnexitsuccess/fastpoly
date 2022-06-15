@@ -8,7 +8,7 @@ The program implements fast polynomial multiplication as well as the standard "s
 It generates random polynomials of a given degree and compares the time taken.
 For small degree polynomials, the "slow" multiplication method is still quicker.
 
-Inspired by (this video by Reducible)[https://www.youtube.com/watch?v=h7apO7q16V0].
+Inspired by [this video by Reducible](https://www.youtube.com/watch?v=h7apO7q16V0).
 
 ## Sample Output
 
